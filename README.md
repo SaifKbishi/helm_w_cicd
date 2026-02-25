@@ -1,2 +1,9 @@
 A full CI/CD pipeline for packaging and publishing Helm charts.
 My GitHub Action automatically packages the chart, updates a Helm repository hosted on GitHub Pages, and regenerates the repo index. Any commit to main instantly publishes a new chart version. This demonstrates automation, artifact versioning, and GitHub Pages hosting.
+
+*   [🚀 Overview](#overview)
+*   [🛠️ Installation](#installation)
+*   [💡 Usage](#usage)
+*   [🤝 Contributing](#contributing)
+*   [📄 License](#license)
+*   [📞 Contact](#contact)
